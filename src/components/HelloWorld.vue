@@ -9,6 +9,7 @@
           target="_blank"
         >
           Core Docs
+          lalala
         </a>
       </li>
       <li>
